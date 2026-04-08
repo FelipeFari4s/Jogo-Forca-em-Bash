@@ -98,4 +98,3 @@ MELHORIAS IMPLEMENTADAS
    Digitando [2], o jogador pode tentar adivinhar
    a palavra completa. Se errar, perde uma tentativa.
 
-==================================================
